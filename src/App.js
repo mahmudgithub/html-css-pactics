@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
 {/* <SelectCss/> */}
- <InlineCss/>
- {/* <InternalCss/> */}
+ {/* <InlineCss/> */}
+ <InternalCss/>
  {/* <ExtarnalCss/> */}
     </div>
   );
