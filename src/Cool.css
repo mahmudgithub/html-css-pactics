@@ -1,8 +1,12 @@
-body {
-    background-color: #282c34;
-    color: white;
-    padding: 40px;
-    font-family: Arial;
-    text-align: center;
-  }
-  
+#one{
+  color:blue;
+}
+.two{
+  color:red;
+}
+.three h1{
+  color:blueviolet;
+}
+.six h2{
+  color:skyblue
+}
