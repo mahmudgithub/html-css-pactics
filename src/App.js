@@ -1,5 +1,6 @@
 import './App.css';
 import './Cool.css';
+import './ExtarnalCssOne.css';
 import SelectCss from './components/SelectCss';
 import InlineCss from './components/InlineCss';
 import InternalCss from './components/InternalCss';
@@ -10,8 +11,8 @@ function App() {
     <div className="App">
 {/* <SelectCss/> */}
  {/* <InlineCss/> */}
- <InternalCss/>
- {/* <ExtarnalCss/> */}
+ {/* <InternalCss/> */}
+ <ExtarnalCss/>
     </div>
   );
 }
