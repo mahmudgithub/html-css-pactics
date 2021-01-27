@@ -1,7 +1,7 @@
 .one{
     color:green;
     background-color:red;
-    border: solid gray 14px;
+    border: outset gray 14px;
     margin:20px;
     padding: 10px;
 }
@@ -9,7 +9,7 @@
 #two{
     color:blue;
     background-color: black;
-    border: solid red 13px;
+    border: inset red 13px;
     margin: 10px;
     padding: 10px;
 
