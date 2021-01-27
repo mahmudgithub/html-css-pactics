@@ -1,12 +1,25 @@
+/* style id attribute */
 #one{
   color:blue;
 }
+
+/* style class attribute */
 .two{
   color:red;
 }
-.three h1{
-  color:blueviolet;
+
+/* style sub-attribute  */
+.three p.sub-three{
+  color:green;
 }
-.six h2{
+
+/* style nested div attribute */
+#six h2{
   color:skyblue
+}
+
+
+/* style holy body */
+.body{
+  background-color:slategray;
 }
