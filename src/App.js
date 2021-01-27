@@ -8,8 +8,8 @@ import ExtarnalCss from './components/ExtarnalCss';
 function App() {
   return (
     <div className="App">
-<SelectCss/>
- {/* <InlineCss/> */}
+{/* <SelectCss/> */}
+ <InlineCss/>
  {/* <InternalCss/> */}
  {/* <ExtarnalCss/> */}
     </div>
