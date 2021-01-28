@@ -5,6 +5,7 @@ import SelectCss from './components/SelectCss';
 import InlineCss from './components/InlineCss';
 import InternalCss from './components/InternalCss';
 import ExtarnalCss from './components/ExtarnalCss';
+import EmbedVideo from './components/EmbedVideo';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
 {/* <SelectCss/> */}
  {/* <InlineCss/> */}
  {/* <InternalCss/> */}
- <ExtarnalCss/>
+ {/* <ExtarnalCss/> */}
  {/* <img src="/images/lol.jpg" alt="image"/> */}
+ <EmbedVideo url="https://youtu.be/taMJct5oeoI" />
     </div>
   );
 }
