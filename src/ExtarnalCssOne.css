@@ -1,18 +1,8 @@
+/* this style for sigle background image of web link */
+  /* .one{
+    background-image:url(https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png); */
 
-  
-.two{
-    background-image:url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"),
-    url("https://mdn.mozillademos.org/files/7693/catfront.png");
-    background-repeat: no-repeat,repeat-x;
-    background-attachment: fixed, scroll;
-    /* background-attachment: scroll,fixed; */
-    
-
-  }
-  .one{
-    /* background-image:url(https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png); */
-    /* background-image: url('public/images/lol.jpg'); */
-    background-repeat: repeat;
+    /* background-repeat: repeat;
     background-size: 150px;
     width: 300px;
     height: 300px;
@@ -24,5 +14,22 @@
     background-position: right bottom;
     background-size: contain;
     
-    
-  }
+} */
+
+
+
+/* this style for multiple background image of web link */
+  /* .two{
+    background-image:url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"),
+    url("https://mdn.mozillademos.org/files/7693/catfront.png");
+    background-repeat: no-repeat,repeat-x;
+    background-attachment: fixed, scroll; 
+    background-attachment: scroll,fixed;
+} */
+
+
+
+/* this style for background image of local  */
+/* .three{
+    background-image: url('public/images/lol.jpg');
+} */

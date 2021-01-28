@@ -13,9 +13,9 @@ function App() {
 {/* <SelectCss/> */}
  {/* <InlineCss/> */}
  {/* <InternalCss/> */}
- {/* <ExtarnalCss/> */}
+ <ExtarnalCss/>
  {/* <img src="/images/lol.jpg" alt="image"/> */}
- <EmbedVideo url="https://youtu.be/taMJct5oeoI" />
+ {/* <EmbedVideo url="https://youtu.be/taMJct5oeoI" /> */}
     </div>
   );
 }
