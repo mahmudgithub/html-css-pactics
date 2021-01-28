@@ -29,7 +29,9 @@
 
 
 
-/* this style for background image of local  */
-/* .three{
-    background-image: url('public/images/lol.jpg');
-} */
+/* this style for background image of local   */
+.three{
+    background-image: url(lol.jpg);
+    background-repeat: no-repeat;
+    border: solid blue 5px;
+}
