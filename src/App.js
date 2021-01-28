@@ -14,12 +14,12 @@ function App() {
 
 
 {/* <SelectCss/> */}
- {/* <InlineCss/> */}
+ <InlineCss/>
  {/* <InternalCss/> */}
  {/* <ExtarnalCss/> */}
  {/* <img src="/images/lol.jpg" alt="image"/> */}
  {/* <EmbedVideo url="https://youtu.be/taMJct5oeoI" /> */}
- <ImageLocal/>
+ {/* <ImageLocal/> */}
 
 
 
