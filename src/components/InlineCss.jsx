@@ -13,8 +13,10 @@ const InlineCss = () => {
                     <h1 style={{color:'blue',border:'dotted',textAlign:'right'}}>i am class tree</h1>
                 </div>
             <div className='four' style={{color:'skyblue',border:'solid', margin:'15px',backgroundColor:'red', padding:'10px'}}><h1>mahmud</h1></div>
+            
             </div>
         </div>
+        
         </div>
     )
 }

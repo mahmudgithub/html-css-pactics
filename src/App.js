@@ -13,6 +13,7 @@ function App() {
  {/* <InlineCss/> */}
  {/* <InternalCss/> */}
  <ExtarnalCss/>
+ {/* <img src="/images/lol.jpg" alt="image"/> */}
     </div>
   );
 }
