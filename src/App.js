@@ -21,7 +21,6 @@ function App() {
  {/* <EmbedVideo url="https://youtu.be/taMJct5oeoI" /> */}
  {/* <ImageLocal/> */}
 
-<div className='container'>hello</div>
 
 
     </div>
